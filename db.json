@@ -1,47 +1,47 @@
 [
   {
-    department_name: "Computer Science and Engineering",
-    department_code: "CSE",
-    teacher: [
+    "department_name": "Computer Science and Engineering",
+    "department_code": "CSE",
+    "teacher": [
       {
-        image: "",
-        employee_id: "CSE112",
-        employee_name: "Ibungomacha",
-        qualification : "Ph.D",
-        specialization: "Image Processing"
+        "image": "",
+        "employee_id": "CSE112",
+        "employee_name": "Ibungomacha",
+        "qualification" : "Ph.D",
+        "specialization": "Image Processing"
       },
       {
-        image: "",
-        employee_id: "CSE113",
-        employee_name: "Selina",
-        qualification : "Ph.D",
-        specialization: "Wireless Sensor Network, OS, Data Structures, Software Engineering"
+        "image": "",
+        "employee_id": "CSE113",
+        "employee_name": "Selina",
+        "qualification" : "Ph.D",
+        "specialization": "Wireless Sensor Network, OS, Data Structures, Software Engineering"
       },
       {
-        image: "",
-        employee_id: "CSE1102",
-        employee_name: "Kanchan",
-        qualification : "Ph.D",
-        specialization: "Digital Image Processing, Networking"
+        "image": "",
+        "employee_id": "CSE1102",
+        "employee_name": "Kanchan",
+        "qualification" : "Ph.D",
+        "specialization": "Digital Image Processing, Networking"
       },
       {
-        image: "",
-        employee_id: "CSE1152",
-        employee_name: "Jitu",
-        qualification : "Ph.D",
-        specialization: "Robotics"
+        "image": "",
+        "employee_id": "CSE1152",
+        "employee_name": "Jitu",
+        "qualification" : "Ph.D",
+        "specialization": "Robotics"
       },
     ],
 
-    components:
+    "components":
     [
         {
-            title: "The Department presently offers the following programmes",
-            body: "1. B.E. in Computer Science & Engineering 2. M. Tech in Computer Science & Engineering",
+            "title": "The Department presently offers the following programmes",
+            "body": "1. B.E. in Computer Science & Engineering 2. M. Tech in Computer Science & Engineering",
         },
         {
-            title: "Facilities",
-            body: `The Department has several state of the art Computer Laboratories with a host of servers, workstation and a large number of i3 and i5 Desktop Computers connected to the Campus-wide LAN with access to the internet through NKN (National Knowledge Network).  The system runs on wide variety of operating systems including Linux Red hat, Windows 7 Professional, Windows 8, High profile Anti-Virus, MySQL, Oracle, Visual Studio, Adobe Premier, Maya (Latest).  The laboratories are equipped with up-to-date office automation software, file servers in addition to the various state-of-the-art compilers and programming environment i.e. Hardware Lab., Software Lab., Networking Lab., and Graphic Lab. well equipped with latest Core i3, i5 PC’s etc.  The network laboratory is equipped with wireless networking system, LAN trainers and Wi-Fi connection.  There is a hardware Lab. equipped with various training kits, experimental setup, analyser equipment etc.
+            "title": "Facilities",
+            "body": `The Department has several state of the art Computer Laboratories with a host of servers, workstation and a large number of i3 and i5 Desktop Computers connected to the Campus-wide LAN with access to the internet through NKN (National Knowledge Network).  The system runs on wide variety of operating systems including Linux Red hat, Windows 7 Professional, Windows 8, High profile Anti-Virus, MySQL, Oracle, Visual Studio, Adobe Premier, Maya (Latest).  The laboratories are equipped with up-to-date office automation software, file servers in addition to the various state-of-the-art compilers and programming environment i.e. Hardware Lab., Software Lab., Networking Lab., and Graphic Lab. well equipped with latest Core i3, i5 PC’s etc.  The network laboratory is equipped with wireless networking system, LAN trainers and Wi-Fi connection.  There is a hardware Lab. equipped with various training kits, experimental setup, analyser equipment etc.
 
             (i)      PCs: Core i3 and i5 Desktop Computers and Data Server are available in various laboratories.
             (ii)     INTERNET:
